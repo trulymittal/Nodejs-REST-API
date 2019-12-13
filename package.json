@@ -1,0 +1,17 @@
+{
+  "name": "restapi_youtube",
+  "version": "1.0.0",
+  "description": "Youtube Tutorial",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "http-errors": "^1.7.3",
+    "mongoose": "^5.7.13"
+  }
+}
