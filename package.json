@@ -4,7 +4,8 @@
   "description": "Youtube Tutorial",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "author": "Me",
   "license": "ISC",
@@ -13,5 +14,8 @@
     "express": "^4.17.1",
     "http-errors": "^1.7.3",
     "mongoose": "^5.7.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }
