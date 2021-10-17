@@ -13,7 +13,7 @@ The application is **production ready**, and can be used behind a Nginx reverse 
 Step 1: Clone the repo
 
 ```bash
-git clone https://github.com/trulymittal/RESTful-API.git
+git clone https://github.com/trulymittal/Nodejs-REST-API.git
 ```
 
 Step 2: cd into the cloned repo and run:
